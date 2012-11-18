@@ -39,6 +39,19 @@ Wie schreibt man das?
 | den        | das     | die       | die    |
 | keinen     | kein    | keine     | keine  |
 
+* Possesivartikel
+
+** Nominativ
+
+| Personalpronomen | Singular        | Plural             |
+|------------------+-----------------+--------------------|
+| ich              | mein            | meine              |
+| du               | dein            | deine              |
+| er/es/sie        | sein, sein, ihr | seine, seine, ihre |
+| wir              | unser           | unsere             |
+| ihr              | euer            | eure               |
+| sie/Sie          | ihr/Ihr         | ihre/Ihre          |
+
 * Wörterliste
 
 See page 221 for general rules.
@@ -81,6 +94,30 @@ See page 221 for general rules.
 | die Frau               | die Frauen              | mujer             |
 | die Familie            | die Familien            | familia           |
 | die Polizei            | -                       | policía           |
+
+* Verbs
+
+** Sein
+
+| Personalpronomen | Präsens | Präteritum |
+|------------------+---------+------------|
+| ich              | bin     | war        |
+| du               | bist    | warst      |
+| er/es/sie        | ist     | war        |
+| wir              | sind    | waren      |
+| ihr              | seid    | wart       |
+| sie/Sie          | sind    | waren      |
+
+** Haben
+
+| Personalpronomen | Präsens | Präteritum |
+|------------------+---------+------------|
+| ich              | habe    | hatte      |
+| du               | hast    | hattest    |
+| er/es/sie        | hat     | hatte      |
+| wir              | haben   | hatten     |
+| ihr              | habt    | hattet     |
+| sie/Sie          | haben   | hatten     |
 
 * Emacs
 
