@@ -1,6 +1,26 @@
 #+TITLE: Deutsche Kourse
 #+AUTHOR: Jose Miguel Martinez Carrasco
 
+* Das Alphabet
+
+Wie schreibt man das?
+
+| Letra | Sonido |   | Letra | Sonido  |   | Letra | Sonido    |
+|-------+--------+---+-------+---------+---+-------+-----------|
+| a     | ah     |   | n     | en      |   | ä     | a umlaut  |
+| b     | bay    |   | o     | oh      |   | ö     | o umlaut  |
+| c     | tsay   |   | p     | pay     |   | ü     | u umlaut  |
+| d     | day    |   | q     | kooh    |   | ß     | ess-tsett |
+| e     | ay     |   | r     | air     |   |       |           |
+| f     | eff    |   | s     | ess     |   |       |           |
+| g     | gay    |   | t     | tay     |   |       |           |
+| h     | hah    |   | u     | ooh     |   |       |           |
+| i     | ee     |   | v     | fow     |   |       |           |
+| j     | yot    |   | w     | vay     |   |       |           |
+| k     | kah    |   | x     | iks     |   |       |           |
+| l     | ell    |   | y     | ipsilon |   |       |           |
+| m     | em     |   | z     | tsett   |   |       |           |
+
 * Wörterliste
 
 | Singular               | Plural                  | Spanisch          |
@@ -27,3 +47,13 @@
 | die Tasche             | die Taschen             | bolsa             |
 | die Kreide             | die Kreiden             | tiza              |
 | die Tafel              | die Tafeln              | pizarra           |
+
+* Emacs
+
+| Character | Sequence    |
+|-----------+-------------|
+| ä         | C + x 8 " a |
+| ö         | C + x 8 " o |
+| ü         | C + x 8 " u |
+| ß         | C + x 8 " s |
+
