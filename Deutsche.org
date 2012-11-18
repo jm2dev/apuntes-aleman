@@ -21,11 +21,31 @@ Wie schreibt man das?
 | l     | ell    |   | y     | ipsilon |   |       |           |
 | m     | em     |   | z     | tsett   |   |       |           |
 
+* Artikel
+
+** Nominativ                                 
+
+|-------------------------------------------|
+| Maskulinum | Neutrum | Femininum | Plural |
+|------------+---------+-----------+--------|
+| der        | das     | die       | die    |
+| ein        | ein     | eine      | -      |
+| kein       | kein    | keine     | keine  |
+
+** Akkusativ                                 
+
+| Maskulinum | Neutrum | Femininum | Plural |
+|------------+---------+-----------+--------|
+| den        | das     | die       | die    |
+| keinen     | kein    | keine     | keine  |
+
 * Wörterliste
+
+See page 221 for general rules.
 
 | Singular               | Plural                  | Spanisch          |
 |------------------------+-------------------------+-------------------|
-| der Schwamm            | die Schwamme            | borrador          |
+| der Schwamm            | die Schwämme            | borrador          |
 | der Tisch              | die Tische              | mesa              |
 | der Stuhl              | die Sthüle              | silla             |
 | der Bleistift          | die Bleistifte          | lápiz             |
@@ -35,18 +55,32 @@ Wie schreibt man das?
 | der Videorekorder      | die Videorekorder       | grabador de vídeo |
 | der Fernseher          | die Fernseher           | televisión        |
 | der Kuli               | die Kulis               | bolígrafo         |
+| der Kaffe              | die Kaffes              | café              |
 | der Radiergummi        | die Radiergummis        | goma              |
 | der Overheadprojecktor | die Overheadprojektoren | proyector         |
+| der Name               | die Namen               | nombre            |
+| der Pilot              | die Piloten             | piloto            |
+|------------------------+-------------------------+-------------------|
 | das Heft               | die Hefte               | cuadernillo       |
 | das Lernplakat         | die Lernplakate         | póster            |
 | das Handy              | die Handys              | móvil             |
 | das Wörterbuch         | die Wörterbücher        | diccionario       |
 | das Kursbuch           | die Kursbücher          | libro del curso   |
 | das Papier             | die Papiere             | Papel             |
+| das Mädchen            | die Mädchen             | chica             |
+| das Foto               | die Fotos               | foto              |
+| das Büro               | die Büros               | oficina           |
+|------------------------+-------------------------+-------------------|
 | die Lampe              | die Lampen              | lámpara           |
 | die Tasche             | die Taschen             | bolsa             |
 | die Kreide             | die Kreiden             | tiza              |
 | die Tafel              | die Tafeln              | pizarra           |
+| die Bank               | die Banken              | banco             |
+| die Frage              | die Fragen              | pregunta          |
+| die Pilotin            | die Pilotinen           | pilota            |
+| die Frau               | die Frauen              | mujer             |
+| die Familie            | die Familien            | familia           |
+| die Polizei            | -                       | policía           |
 
 * Emacs
 
