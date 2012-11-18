@@ -1,0 +1,29 @@
+#+TITLE: Deutsche Kourse
+#+AUTHOR: Jose Miguel Martinez Carrasco
+
+* Wörterliste
+
+| Singular               | Plural                  | Spanisch          |
+|------------------------+-------------------------+-------------------|
+| der Schwamm            | die Schwamme            | borrador          |
+| der Tisch              | die Tische              | mesa              |
+| der Stuhl              | die Sthüle              | silla             |
+| der Bleistift          | die Bleistifte          | lápiz             |
+| der Computer           | die Computer            | ordenador         |
+| der CD-Player          | die CD-Player           | reproductor de cd |
+| der Füller             | die Füller              | pluma             |
+| der Videorekorder      | die Videorekorder       | grabador de vídeo |
+| der Fernseher          | die Fernseher           | televisión        |
+| der Kuli               | die Kulis               | bolígrafo         |
+| der Radiergummi        | die Radiergummis        | goma              |
+| der Overheadprojecktor | die Overheadprojektoren | proyector         |
+| das Heft               | die Hefte               | cuadernillo       |
+| das Lernplakat         | die Lernplakate         | póster            |
+| das Handy              | die Handys              | móvil             |
+| das Wörterbuch         | die Wörterbücher        | diccionario       |
+| das Kursbuch           | die Kursbücher          | libro del curso   |
+| das Papier             | die Papiere             | Papel             |
+| die Lampe              | die Lampen              | lámpara           |
+| die Tasche             | die Taschen             | bolsa             |
+| die Kreide             | die Kreiden             | tiza              |
+| die Tafel              | die Tafeln              | pizarra           |
