@@ -5,21 +5,34 @@
 
 Wie schreibt man das?
 
-| Letra | Sonido |   | Letra | Sonido  |   | Letra | Sonido    |
-|-------+--------+---+-------+---------+---+-------+-----------|
-| a     | ah     |   | n     | en      |   | ä     | a umlaut  |
-| b     | bay    |   | o     | oh      |   | ö     | o umlaut  |
-| c     | tsay   |   | p     | pay     |   | ü     | u umlaut  |
-| d     | day    |   | q     | kooh    |   | ß     | ess-tsett |
-| e     | ay     |   | r     | air     |   |       |           |
-| f     | eff    |   | s     | ess     |   |       |           |
-| g     | gay    |   | t     | tay     |   |       |           |
-| h     | hah    |   | u     | ooh     |   |       |           |
-| i     | ee     |   | v     | fow     |   |       |           |
-| j     | yot    |   | w     | vay     |   |       |           |
-| k     | kah    |   | x     | iks     |   |       |           |
-| l     | ell    |   | y     | ipsilon |   |       |           |
-| m     | em     |   | z     | tsett   |   |       |           |
+| Letra | Sonido | Letra | Sonido  | Letra | Sonido    |
+|-------+--------+-------+---------+-------+-----------|
+| a     | ah     | n     | en      | ä     | a umlaut  |
+| b     | bay    | o     | oh      | ö     | o umlaut  |
+| c     | tsay   | p     | pay     | ü     | u umlaut  |
+| d     | day    | q     | kooh    | ß     | ess-tsett |
+| e     | ay     | r     | air     |       |           |
+| f     | eff    | s     | ess     |       |           |
+| g     | gay    | t     | tay     |       |           |
+| h     | hah    | u     | ooh     |       |           |
+| i     | ee     | v     | fow     |       |           |
+| j     | yot    | w     | vay     |       |           |
+| k     | kah    | x     | iks     |       |           |
+| l     | ell    | y     | ipsilon |       |           |
+| m     | em     | z     | tsett   |       |           |
+
+* Zahlen
+
+|  1 | eins   | 11 | elf      | 21 | einundzwanzig    |  100 | einhundert    |
+|  2 | zwei   | 12 | zwölf    | 22 | zweiundzwnzig    |  200 | zweihundert   |
+|  3 | drei   | 13 | dreizehn | 23 | dreiundzwanzig   |  300 | dreihundert   |
+|  4 | vier   | 14 | vierzehn | 24 | vierundzwnazig   |  400 | vierhundert   |
+|  5 | fünf   | 15 | fünfzehn | 25 | fünfundzwanzig   |  500 | fünfhundert   |
+|  6 | sechs  | 16 | sechzehn | 26 | sechsundzwanzig  |  600 | sechshundert  |
+|  7 | sieben | 17 | siebsehn | 27 | siebenundzwnazig |  700 | siebenhundert |
+|  8 | acht   | 18 | achtzehn | 28 | achtundzwanzig   |  800 | achthundert   |
+|  9 | neun   | 19 | neunzehn | 29 | neunundzwnazig   |  900 | neunhundert   |
+| 10 | zehn   | 20 | zwanzig  | 30 | dreizig          | 1000 | eintausend    |
 
 * Artikel
 
