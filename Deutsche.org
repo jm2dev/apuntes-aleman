@@ -97,7 +97,16 @@ See page 221 for general rules.
 
 * Verbs
 
-** Sein
+| Personalpronomen | Präsens | Präteritum |
+|------------------+---------+------------|
+| ich              | -e      |            |
+| du               | -st     |            |
+| er/es/sie        | -t      |            |
+| wir              | -en     |            |
+| ihr              | -t      |            |
+| sie/Sie          | -en     |            |
+
+** Sein (to be)
 
 | Personalpronomen | Präsens | Präteritum |
 |------------------+---------+------------|
@@ -108,7 +117,7 @@ See page 221 for general rules.
 | ihr              | seid    | wart       |
 | sie/Sie          | sind    | waren      |
 
-** Haben
+** Haben (to have)
 
 | Personalpronomen | Präsens | Präteritum |
 |------------------+---------+------------|
@@ -119,6 +128,241 @@ See page 221 for general rules.
 | ihr              | habt    | hattet     |
 | sie/Sie          | haben   | hatten     |
 
+** Machen (to make, to do)
+
+| Personalpronomen | Präsens | Präteritum |
+|------------------+---------+------------|
+| ich              | mache   |            |
+| du               | machst  |            |
+| er/es/sie        | macht   |            |
+| wir              | machen  |            |
+| ihr              | macht   |            |
+| sie/Sie          | machen  |            |
+
+** Heißen (to be named)
+
+Wie heißen Sie?
+
+| Personalpronomen | Präsens | Präteritum |
+|------------------+---------+------------|
+| ich              | heiße   |            |
+| du               | heißt   |            |
+| er/es/sie        | heißt   |            |
+| wir              | heißen  |            |
+| ihr              | heißt   |            |
+| sie/Sie          | heißen  |            |
+
+** Hören (to hear)
+
+| Personalpronomen | Präsens | Präteritum |
+|------------------+---------+------------|
+| ich              | höre    | hörte      |
+| du               | hörst   | hörtest    |
+| er/es/sie        | hört    | hörte      |
+| wir              | hören   | hörten     |
+| ihr              | hört    | hörtet     |
+| sie/Sie          | hören   | hörten     |
+   
+** Sehen (to see)
+
+| Personalpronomen | Präsens | Präteritum |
+|------------------+---------+------------|
+| ich              | sehe    | sah        |
+| du               | siehst  | sahst      |
+| er/es/sie        | sieht   | sah        |
+| wir              | sehen   | sahen      |
+| ihr              | seht    | saht       |
+| sie/Sie          | sehen   | sahen      |
+
+** Lernen (to learn, to study)
+
+| Personalpronomen | Präsens | Präteritum |
+|------------------+---------+------------|
+| ich              | lerne   |            |
+| du               | lernst  |            |
+| er/es/sie        | lernt   |            |
+| wir              | lernen  |            |
+| ihr              | lernt   |            |
+| sie/Sie          | lernen  |            |
+
+** Fragen (to ask)
+
+| Personalpronomen | Präsens | Präteritum |
+|------------------+---------+------------|
+| ich              | frage   |            |
+| du               | fragst  |            |
+| er/es/sie        | fragt   |            |
+| wir              | fragen  |            |
+| ihr              | fragt   |            |
+| sie/Sie          | fragen  |            |
+
+** Antworten (to answer)
+
+| Personalpronomen | Präsens   | Präteritum |
+|------------------+-----------+------------|
+| ich              | antworte  |            |
+| du               | antwortst |            |
+| er/es/sie        | antwortet |            |
+| wir              | antworten |            |
+| ihr              | antwortet |            |
+| sie/Sie          | antworten |            |
+   
+** Buchstabieren (to spell)
+
+| Personalpronomen | Präsens       | Präteritum |
+|------------------+---------------+------------|
+| ich              | buchstabiere  |            |
+| du               | buchstabierst |            |
+| er/es/sie        | buchstabiert  |            |
+| wir              | buchstabieren |            |
+| ihr              | buchstabiert  |            |
+| sie/Sie          | buchstabieren |            |
+
+** Kennen (to know)
+
+| Personalpronomen | Präsens | Präteritum |
+|------------------+---------+------------|
+| ich              | kenne   |            |
+| du               | kennst  |            |
+| er/es/sie        | kennt   |            |
+| wir              | kennen  |            |
+| ihr              | kennt   |            |
+| sie/Sie          | kennen  |            |
+
+** Kommen (to come)
+
+| Personalpronomen | Präsens | Präteritum |
+|------------------+---------+------------|
+| ich              | komme   |            |
+| du               | kommst  |            |
+| er/es/sie        | kommt   |            |
+| wir              | kommen  |            |
+| ihr              | kommt   |            |
+| sie/Sie          | kommen  |            |
+
+** Notieren (to note)
+
+| Personalpronomen | Präsens  | Präteritum |
+|------------------+----------+------------|
+| ich              | notiere  |            |
+| du               | notierst |            |
+| er/es/sie        | notiert  |            |
+| wir              | notieren |            |
+| ihr              | notiert  |            |
+| sie/Sie          | notieren |            |
+
+** Berichten (to report)
+
+| Personalpronomen | Präsens   | Präteritum |
+|------------------+-----------+------------|
+| ich              | berichte  |            |
+| du               | berichtst |            |
+| er/es/sie        | berichtet |            |
+| wir              | berichten |            |
+| ihr              | berichtet |            |
+| sie/Sie          | berichten |            |
+
+** Wohnen (to reside, to live)
+
+| Personalpronomen | Präsens | Präteritum |
+|------------------+---------+------------|
+| ich              | wohne   |            |
+| du               | wohnst  |            |
+| er/es/sie        | wohnt   |            |
+| wir              | wohnen  |            |
+| ihr              | wohnt   |            |
+| sie/Sie          | wohnen  |            |
+
+** Ordnen (to organize, to put in)
+
+| Personalpronomen | Präsens | Präteritum |
+|------------------+---------+------------|
+| ich              | ordne   |            |
+| du               | ordnst  |            |
+| er/es/sie        | ordnt   |            |
+| wir              | ordnen  |            |
+| ihr              | ordnt   |            |
+| sie/Sie          | ordnen  |            |
+
+** Schreiben (to write)
+
+| Personalpronomen | Präsens   | Präteritum |
+|------------------+-----------+------------|
+| ich              | schreibe  |            |
+| du               | schreibst |            |
+| er/es/sie        | schreibt  |            |
+| wir              | schreiben |            |
+| ihr              | schreibt  |            |
+| sie/Sie          | schreiben |            |
+
+
+
+** Sprechen (to speak)
+
+| Personalpronomen | Präsens  | Präteritum |
+|------------------+----------+------------|
+| ich              | spreche  |            |
+| du               | sprichst |            |
+| er/es/sie        | spricht  |            |
+| wir              | sprechen |            |
+| ihr              | sprecht  |            |
+| sie/Sie          | sprechen |            |
+
+** Lesen (to read)
+
+| Personalpronomen | Präsens | Präteritum |
+|------------------+---------+------------|
+| ich              | lese    |            |
+| du               | liesst  |            |
+| er/es/sie        | liest   |            |
+| wir              | lesen   |            |
+| ihr              | lest    |            |
+| sie/Sie          | lesen   |            |
+
+** Zahlen (to pay)
+
+| Personalpronomen | Präsens | Präteritum |
+|------------------+---------+------------|
+| ich              | zahle   |            |
+| du               | zahlst  |            |
+| er/es/sie        | zahlt   |            |
+| wir              | zahlen  |            |
+| ihr              | zahlt   |            |
+| sie/Sie          | zahlen  |            |
+
+** Zählen (to count)
+
+| Personalpronomen | Präsens | Präteritum |
+|------------------+---------+------------|
+| ich              | zähle   |            |
+| du               | zählst  |            |
+| er/es/sie        | zählt   |            |
+| wir              | zählen  |            |
+| ihr              | zählt   |            |
+| sie/Sie          | zählen  |            |
+
+** Nehmen (to take)
+
+| Personalpronomen | Präsens | Präteritum |
+|------------------+---------+------------|
+| ich              | nehme   |            |
+| du               | nimmst  |            |
+| er/es/sie        | nimmt   |            |
+| wir              | nehmen  |            |
+| ihr              | nehmt   |            |
+| sie/Sie          | nehmen  |            |
+
+** Trinken (to drink)
+
+| Personalpronomen | Präsens | Präteritum |
+|------------------+---------+------------|
+| ich              | trinke  |            |
+| du               | trinkst |            |
+| er/es/sie        | trinkt  |            |
+| wir              | trinken |            |
+| ihr              | trinkt  |            |
+| sie/Sie          | trinken |            |
+
 * Emacs
 
 | Character | Sequence    |
@@ -127,4 +371,10 @@ See page 221 for general rules.
 | ö         | C + x 8 " o |
 | ü         | C + x 8 " u |
 | ß         | C + x 8 " s |
+
+* References
+
+[[http://german.about.com/library/verbs/blverb_Conjug1.htm][German verb conjugator]]
+
+
 
