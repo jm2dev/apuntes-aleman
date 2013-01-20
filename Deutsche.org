@@ -71,6 +71,7 @@ See page 221 for general rules.
 
 | Singular               | Plural                  | Spanisch          |
 |------------------------+-------------------------+-------------------|
+| der Arzt               | die Arzten              | doctor            |
 | der Schwamm            | die Schwämme            | borrador          |
 | der Tisch              | die Tische              | mesa              |
 | der Stuhl              | die Sthüle              | silla             |
@@ -391,3 +392,7 @@ Wie heißen Sie?
 
 
 
+
+Apuntate a este curso, martes de 18.30 a 21.00
+
+http://www.goethe.de/ins/gb/lon/lrn/deu/ext/a12/en9317217v.htm
