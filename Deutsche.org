@@ -377,6 +377,46 @@ Wie heißen Sie?
 | ihr              | trinkt  |            |
 | sie/Sie          | trinken |            |
 
+** Essen (to eat)
+
+| Personalpronomen | Präsens | Präteritum |
+|------------------+---------+------------|
+| ich              | esse    |            |
+| du               | isst    |            |
+| er/es/sie        | isst    |            |
+| wir              | essen   |            |
+| ihr              | esst    |            |
+| sie/Sie          | essen   |            |
+
+
+* Special verbs
+
+| Separable verbs                 |
+|---------------------------------|
+| aufwachen (to wake up)          |
+| aufstehen (to get up)           |
+| frühstücken (to have breakfast) |
+| aufagen (to begin)              |
+| auskommen (to arrive)           |
+| anrufen (to phone)              |
+| anmachen (to turn on)           |
+| ausmachen (to turn off)         |
+| aufmachen (to open)             |
+| zumachen (to close)             |
+| einkaufen (to shop)             |
+| zurückkommen (to come back)     |
+| vorbereiten (to prepare)        |
+| aufraüren (to tidy up)          |
+| einschlafen (to fall asleep)    |
+| fernsehen (to watch tv)         |
+
+| Non separable verbs       |
+|---------------------------|
+| verstehen (to understand) |
+| verlassen (to leave)      |
+| besuchen (to visit)       |
+| bekommen (to get/receive) |
+
 * Emacs
 
 | Character | Sequence    |
