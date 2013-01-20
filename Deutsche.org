@@ -1,5 +1,6 @@
 #+TITLE: Deutsche Kourse
 #+AUTHOR: Jose Miguel Martinez Carrasco
+#+LANGUAGE: de, es, en
 
 * Das Alphabet
 
@@ -34,12 +35,23 @@ Wie schreibt man das?
 |  9 | neun   | 19 | neunzehn | 29 | neunundzwnazig   |  900 | neunhundert   |
 | 10 | zehn   | 20 | zwanzig  | 30 | dreizig          | 1000 | eintausend    |
 
+- plus +
+- minus -
+- mal x
+- durch :
+
+#+BEGIN_QUOTE
+ Wann sind Sie geboren? / Wann bist du geboren?
+
+Ich bin 1962 ("neunzehnhundertzweiundsechzig")
+#+END_QUOTE 
+  
 * Artikel
 
 ** Nominativ                                 
 
 |-------------------------------------------|
-| Maskulinum | Neutrum | Femininum | Plural |
+| Maskulin   | Neutrum | Feminin   | Plural |
 |------------+---------+-----------+--------|
 | der        | das     | die       | die    |
 | ein        | ein     | eine      | -      |
@@ -47,10 +59,17 @@ Wie schreibt man das?
 
 ** Akkusativ                                 
 
-| Maskulinum | Neutrum | Femininum | Plural |
+| Maskulin   | Neutrum | Feminin   | Plural |
 |------------+---------+-----------+--------|
 | den        | das     | die       | die    |
 | keinen     | kein    | keine     | keine  |
+
+** Dativ
+
+| Maskulin | Neutrum | Feminin | Plural |
+|----------+---------+---------+--------|
+| dem      | dem     | der     | den    |
+
 
 * Possesivartikel
 
@@ -65,6 +84,57 @@ Wie schreibt man das?
 | ihr              | euer            | eure               |
 | sie/Sie          | ihr/Ihr         | ihre/Ihre          |
 
+* Pronomen
+
+** Personalpronomen
+
+| Nominativ | Akkusativ | Dativ |
+|-----------+-----------+-------|
+| ich       | mich      | mir   |
+| du        | dich      | dir   |
+| er        | ihn       | ihm   |
+| es        | es        | ihm   |
+| sie       | sie       | ihr   |
+| wir       | uns       | uns   |
+| ihr       | euch      | euch  |
+| sie       | sie       | ihnen |
+| Sie       | Sie       | Ihnen | 
+
+** das indefinite Pronomen "man"
+
+"Man" es un sujeto impersonal. Siempre es sujeto de la oración y corresponde a "uno" o "se" en castellano. Su posición es antes o después del verbo conjugado.
+
+#+BEGIN_QUOTE
+[Man] spricht in Chile Spanisch 
+
+In Chile spricht [man] Spanisch 
+#+END_QUOTE
+
+** das Personalpronomen "es"
+
+"Es" puede usarse en los siguientes casos:
+
+a) Como pronombre personal
+
+#+BEGIN_QUOTE
+[Das Auto] ist deffekt. [Es] wird repariert
+[El auto] está malo. [Está] siendo reparado
+#+END_QUOTE
+
+b) Como sujeto formal en expresiones impersonales
+
+#+BEGIN_QUOTE
+Es gibt viele Hypothesen
+Hay o existen varias hipótesis
+#+END_QUOTE
+
+c) Como "pseudo - sujeto"
+
+#+BEGIN_QUOTE
+Es ist nicht nötig
+No es necesario
+#+END_QUOTE
+
 * Wörterliste
 
 See page 221 for general rules.
@@ -75,18 +145,28 @@ See page 221 for general rules.
 | der Schwamm            | die Schwämme            | borrador          |
 | der Tisch              | die Tische              | mesa              |
 | der Stuhl              | die Sthüle              | silla             |
+| der Schrank            | die Schränke            | armario           |
 | der Bleistift          | die Bleistifte          | lápiz             |
 | der Computer           | die Computer            | ordenador         |
 | der CD-Player          | die CD-Player           | reproductor de cd |
 | der Füller             | die Füller              | pluma             |
 | der Videorekorder      | die Videorekorder       | grabador de vídeo |
 | der Fernseher          | die Fernseher           | televisión        |
+| der Fernsehapparat     | die Fernsehapparate     | televisor         |
 | der Kuli               | die Kulis               | bolígrafo         |
 | der Kaffe              | die Kaffes              | café              |
 | der Radiergummi        | die Radiergummis        | goma              |
 | der Overheadprojecktor | die Overheadprojektoren | proyector         |
+| der Taschenrechner     | die Taschenrechners     | calculadora       |
 | der Name               | die Namen               | nombre            |
 | der Pilot              | die Piloten             | piloto            |
+| der Abfalleimer        | die Abfalleimers        | papelera          |
+| der Elecktroherd       | die Elektroherde        | cocina eléctrica  |
+| der Kühlschrank        | die Kühlschränke        | nevera            |
+| der Topf               | die Töpfe               | olla              |
+| der Geschirrspüler     | die Geschirrspülers     | lavavajillas      |
+| der Mann               | die Männer              | hombre            |
+| der Fisch              | die Fische              | pez               |
 |------------------------+-------------------------+-------------------|
 | das Heft               | die Hefte               | cuadernillo       |
 | das Lernplakat         | die Lernplakate         | póster            |
@@ -97,17 +177,31 @@ See page 221 for general rules.
 | das Mädchen            | die Mädchen             | chica             |
 | das Foto               | die Fotos               | foto              |
 | das Büro               | die Büros               | oficina           |
+| das Auto               | die Autos               | coche             |
+| das Radio              | die Radios              | radio             |
+| das Bild               | die Bilder              | cuadro            |
+| das Telefon            | die Telefone            | teléfono          |
+| das Regal              | die Regale              | estantería        |
+| das Haus               | die Häuser              | casa              |
+| das Thermometer        | die Thermometer         | termómetro        |
+| das Bette              | die Betten              | cama              |
 |------------------------+-------------------------+-------------------|
 | die Lampe              | die Lampen              | lámpara           |
 | die Tasche             | die Taschen             | bolsa             |
+| die Taschenlampe       | die Taschenlampen       | linterna          |
 | die Kreide             | die Kreiden             | tiza              |
 | die Tafel              | die Tafeln              | pizarra           |
+| die Uhr                | die Uhren               | reloj             |
 | die Bank               | die Banken              | banco             |
 | die Frage              | die Fragen              | pregunta          |
 | die Pilotin            | die Pilotinen           | pilota            |
 | die Frau               | die Frauen              | mujer             |
 | die Familie            | die Familien            | familia           |
 | die Polizei            | -                       | policía           |
+| die Kamera             | die Kameras             | cámara            |
+| die Mikrowelle         | die Mikrowellen         | microondas        |
+| die Fabrik             | die Fabriken            | fábrica           |
+| die Diskette           | die Disketten           | disquete          |
 
 * Verbs
 
@@ -417,6 +511,34 @@ Wie heißen Sie?
 | besuchen (to visit)       |
 | bekommen (to get/receive) |
 
+
+* Frases útiles
+
+| Ich weiße nicht            | No sé                   |
+| Wie bitte                  | Perdón                  |
+| Ich verstehe nicht         | No entiendo             |
+| Buchstabieren Sie bitte    | Deletree por favor      |
+| Wie schreibt man das?      | Cómo se escribe?        |
+| Bitte noch einmal          | Otra vez por favor      |
+| Wie heißt das auf Deutsch? | Cómo se dice en alemán? |
+| Hilfe!                     | Ayuda!                  | 
+
+* Adjetivos
+
+| müde        | cansado    |
+| verheiratet | casado     |
+| ledig       | soltero    |
+| traurig     | triste     |
+| sportlich   | deportista |
+| glücklich   | feliz      |
+| pleite      | pobre      |
+| blau        | borracho   |
+| krank       | enfermo    |
+| nervös      | nervioso   |
+| verliebt    | enamorado  |
+| musikalisch | musical    |
+| pünktlich   | puntual    | 
+  
 * Emacs
 
 | Character | Sequence    |
@@ -428,9 +550,11 @@ Wie heißen Sie?
 
 * References
 
+[[http://lernen.goethe.de/moodle/mod/klassenbuch/view.php?id%3D2251477][Resumen de las lecciones]]
+
 [[http://german.about.com/library/verbs/blverb_Conjug1.htm][German verb conjugator]]
 
-
+[[http://www2.udec.cl/~alualem/alegram.html][Gramática básica del alemán]]
 
 
 Apuntate a este curso, martes de 18.30 a 21.00
