@@ -184,7 +184,7 @@ See page 221 for general rules.
 | das Regal              | die Regale              | estantería        |
 | das Haus               | die Häuser              | casa              |
 | das Thermometer        | die Thermometer         | termómetro        |
-| das Bette              | die Betten              | cama              |
+| das Bett               | die Betten              | cama              |
 |------------------------+-------------------------+-------------------|
 | die Lampe              | die Lampen              | lámpara           |
 | die Tasche             | die Taschen             | bolsa             |
@@ -202,6 +202,17 @@ See page 221 for general rules.
 | die Mikrowelle         | die Mikrowellen         | microondas        |
 | die Fabrik             | die Fabriken            | fábrica           |
 | die Diskette           | die Disketten           | disquete          |
+
+** Plural
+
+1. *-* der CD-Player/die CD-Player
+2. *s* der Kuli/die Kulis
+3. *n* die Lampe/die Lampen
+4. *e* der Tisch/die Tische
+5. *''e* der Stuhl/die Stühle
+6. *''er* das Buch/die Bücher
+7. *en* das Bett/die Betten
+8. *er* das Kind/die Kinder
 
 * Verbs
 
@@ -403,7 +414,15 @@ Wie heißen Sie?
 | ihr              | schreibt  |            |
 | sie/Sie          | schreiben |            |
 
-
+** Fahren (to drive)
+| Personalpronomen | Präsens   | Präteritum |
+|------------------+-----------+------------|
+| ich              | fahre     |            |
+| du               | fährst    |            |
+| er/es/sie        | färht     |            |
+| wir              | fahren    |            |
+| ihr              | fahrt     |            |
+| sie/Sie          | fahren    |            |
 
 ** Sprechen (to speak)
 
@@ -523,6 +542,10 @@ Wie heißen Sie?
 | Wie heißt das auf Deutsch? | Cómo se dice en alemán? |
 | Hilfe!                     | Ayuda!                  | 
 
+| Wo wohnen Sie? In London     | Donde vive? En Londres    |
+| Woher kommen Sie? Aus Berlin | De donde viene? De Berlín |
+| Wohin fahren Sie? Nach Paris | A donde conduce? A París  |
+
 * Adjetivos
 
 | müde        | cansado    |
@@ -539,6 +562,12 @@ Wie heißen Sie?
 | musikalisch | musical    |
 | pünktlich   | puntual    | 
   
+* Conectores
++ *und* (and)
++ *oder* (or)
++ *aber* (but)
++ *denn* (as/because) 
+
 * Emacs
 
 | Character | Sequence    |
